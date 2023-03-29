@@ -57,6 +57,8 @@ Collect 6 years of air quality data from two public administrations. Unification
 
 Code for the creation of the points that make up a fractal. Four randomly selected equations per probability to generate 100,000 points. Study and representation of them in Tableau.
 
+<img src="images/fern2.PNG?raw=true"/>
+
 [Project on Public Tableau](https://public.tableau.com/views/DataFernV1/JustaDataFern?:language=es-ES&:display_count=n&:origin=viz_share_link)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
