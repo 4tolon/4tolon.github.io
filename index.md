@@ -2,7 +2,7 @@
 
 ---
 
-# Data science -------------------------------------------------------🚀
+# Data science -----------------------🚀
 
 
 
@@ -35,7 +35,7 @@ Code for the creation of the points that make up a fractal. Four randomly select
 
 ---
 
-# Machine Learning ----------------------------------------------------🤹‍♂️
+# Machine Learning ----------------------🤹‍♂️
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -45,7 +45,7 @@ Code for the creation of the points that make up a fractal. Four randomly select
 
 ---
 
-# IoT -------------------------------------------------------------------🗼
+# IoT ------------------------------🗼
 
 ---
 [PID Controler](/pdf/sample_presentation.pdf)
