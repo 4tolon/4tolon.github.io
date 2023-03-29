@@ -1,8 +1,10 @@
-## Selected projects in data science, machine learning and IoT .... and any other project I find interested ㄟ( ▔, ▔ )ㄏ
+# 👁‍🗨 Data science, machine learning, IoT and others projects I find interested ㄟ( ▔, ▔ )ㄏ
 
 ---
 
-### Data science -------------------------------------🚀
+# Data science -------------------------------------------------------🚀
+
+
 
 ## 😷 6 years of Madrid air quality 
 
@@ -13,7 +15,7 @@ Collect 6 years of air quality data from two public administrations. Unification
 [Project on Github](https://github.com/4tolon/Aire_de_calidad)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
----
+
 
 ## 🌿 Barnsley Fern. Fractal generation
 
@@ -26,13 +28,14 @@ Code for the creation of the points that make up a fractal. Four randomly select
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
 
 
----
+
+
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/"/>
 
 ---
 
-### Machine Learning -------------------------------------🤹‍♂️
+# Machine Learning ----------------------------------------------------🤹‍♂️
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -40,12 +43,13 @@ Code for the creation of the points that make up a fractal. Four randomly select
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
+---
 
-### IoT ------------------------------------- 🗼
+# IoT -------------------------------------------------------------------🗼
 
 ---
 [PID Controler](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/"/>
 
 ---
 
