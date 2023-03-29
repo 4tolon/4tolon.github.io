@@ -6,9 +6,9 @@
 
 [De madrid al cielo, Dashboard final](/sample_page)
 Dashboard
-<img src="images/aire.png?raw=true"/>
+<img src="images/aire.PNG?raw=true"/>
 Analisys
-<img src="images/aire2.png?raw=true"/>
+<img src="images/aire2.PNG?raw=true"/>
 
 
 
