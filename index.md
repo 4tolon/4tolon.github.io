@@ -47,12 +47,12 @@
 
 ### Data science 🚀
 
-[De madrid al cielo, Dashboard final]([https://github.com/4tolon/Aire_de_calidad])
+## 6 years of Madrid air quality
 
-Collect 6 years of air quality data from two public administrations. Unification of the data, transformation and display in a Tableau Dashboard where you can select one of the measurement stations and a time range. 
+Collect 6 years of air quality data from two public administrations. Unification of the data, transformation and display in a Tableau Dashboard where you can select every measurement stations and a time range. 
 
 <img src="images/aire.PNG?raw=true"/>
-
+[Project on Github](https://github.com/4tolon/Aire_de_calidad)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
