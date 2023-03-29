@@ -42,34 +42,25 @@
 
 ### Data science 🚀
 
-## 6 years of Madrid air quality
+## 😷 6 years of Madrid air quality 
 
 Collect 6 years of air quality data from two public administrations. Unification of the data, transformation and display in a Tableau Dashboard where you can select every measurement stations and a time range. 
 
 <img src="images/aire.PNG?raw=true"/>
+
 [Project on Github](https://github.com/4tolon/Aire_de_calidad)
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
 ---
 
-## Barnsley Fern. Fractal generation
+## 🌿 Barnsley Fern. Fractal generation
 
 Code for the creation of the points that make up a fractal. Four randomly selected equations per probability to generate 100,000 points. Study and representation of them in Tableau.
 
 [Project on Public Tableau](https://public.tableau.com/views/DataFernV1/JustaDataFern?:language=es-ES&:display_count=n&:origin=viz_share_link)
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
 
-Python first generation plot
-
-
-<img src="images/fern.png?raw=true"/>
-
-
-Tableau data study
-
-
-<img src="images/fern2.PNG?raw=true"/>
-<img src="images/fern3.PNG?raw=true"/>
-<img src="images/fern4.PNG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
