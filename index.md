@@ -2,45 +2,7 @@
 
 ---
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
-[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
-[![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
-[![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#)
-[![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
-[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
-[![](https://img.shields.io/badge/Google-white?logo=Google)](#) 
-[![](https://img.shields.io/badge/Apple-white?logo=Apple)](#)
-
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
-[![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#)
-[![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
-
-
-
-
-[![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#)
-[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
-[![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#)
-[![](https://img.shields.io/badge/Geopandas-white?logo=Geopandas)](#)
-[![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
-[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
-[![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
-[![](https://img.shields.io/badge/LIME-white?logo=LIME)](#)
-[![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#)
-
-[![](https://img.shields.io/badge/R-white?logo=R)](#)
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
-[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
-
-
-
-
-
-### Data science 🚀
+### Data science -------------------------------------🚀
 
 ## 😷 6 years of Madrid air quality 
 
@@ -70,7 +32,7 @@ Code for the creation of the points that make up a fractal. Four randomly select
 
 ---
 
-### Machine Learning 🤹‍♂️
+### Machine Learning -------------------------------------🤹‍♂️
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -79,7 +41,7 @@ Code for the creation of the points that make up a fractal. Four randomly select
 - [Project 5 Title](http://example.com/)
 
 
-### IoT 
+### IoT ------------------------------------- 🗼
 
 ---
 [PID Controler](/pdf/sample_presentation.pdf)
@@ -87,6 +49,20 @@ Code for the creation of the points that make up a fractal. Four randomly select
 
 ---
 
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
+[![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#)
+[![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Google-white?logo=Google)](#) 
+[![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) 
+[![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#)
+[![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
+[![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#)
+[![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#)
+[![](https://img.shields.io/badge/Geopandas-white?logo=Geopandas)](#)
+[![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
 
 
 
