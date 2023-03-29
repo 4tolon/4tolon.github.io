@@ -5,18 +5,34 @@
 ### Data science 🚀
 
 [De madrid al cielo, Dashboard final](/sample_page)
+
+
 Dashboard
+
+
 <img src="images/aire.PNG?raw=true"/>
+
+
 Analisys
+
+
 <img src="images/aire2.PNG?raw=true"/>
 
 
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
+
+
 Python first generation plot
+
+
 <img src="images/fern.png?raw=true"/>
+
+
 Tableau data study
+
+
 <img src="images/fern2.PNG?raw=true"/>
 <img src="images/fern3.PNG?raw=true"/>
 <img src="images/fern4.PNG?raw=true"/>
@@ -48,5 +64,5 @@ Tableau data study
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:14px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
