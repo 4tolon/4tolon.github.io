@@ -17,9 +17,9 @@ Analisys
 Python first generation plot
 <img src="images/fern.png?raw=true"/>
 Tableau data study
-<img src="images/fern2.png?raw=true"/>
-<img src="images/fern3.png?raw=true"/>
-<img src="images/fern4.png?raw=true"/>
+<img src="images/fern2.PNG?raw=true"/>
+<img src="images/fern3.PNG?raw=true"/>
+<img src="images/fern4.PNG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
